@@ -55,7 +55,7 @@ impl TodoList {
         // if self.items.is_empty() {
         //     println!("empty")
         // } else {
-        //     println!("Your Todo-list");
+        //     println!("Your");
         //     for item in &self.items {
         //         let status = if item.done { "[X]" } else { "[]" };
         //         println!("{} {} - {}", status, item.id, item.title);
